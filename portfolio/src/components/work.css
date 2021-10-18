@@ -1,0 +1,12 @@
+.Work {
+    height: 100vh;
+    background-color: #ae7763;
+  }
+
+.empty {
+    height: 10vh;
+  }
+
+.title {
+    font-size: 4rem;
+}

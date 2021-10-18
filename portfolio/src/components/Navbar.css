@@ -4,44 +4,45 @@
     background: transparent;
     height: 80px;
     display: flex;
-    font-size: 1.8rem;
+    font-size: 2.3rem;
     font-family: 'Abril Fatface';
+    position: fixed;
+    width: 100%;
+    top: 0;
+    align-self: flex-start;
 }
 
 .navBar-container {
     display: flex;
+    justify-content: space-between;
     height: 80px;
     max-width: 1500px;
+    width:100%;
+    margin: 0;
+    padding: 0;
 }
 
 .left {
+    height: 3px;
+    background-color: #FFFFFF;
     display: flex;
-    flex-direction: column;
-    max-width: 750px;
-}
+    align-items: flex-start;
+    align-self: center;
+    width: 53%;
 
-.upper {
-    border-bottom:5px solid white;
-}
-
-.nav-menu {
-    max-width: 750px;
-    display: flex;
 }
 
 .nav-item {
-    list-style: none;
-    text-decoration: none;
-    flex-direction: row;
+    display: flex;
 }
 
 .nav-links {
     color: #FFFFFF;
     list-style: none;
     text-decoration: none;
-    display: flex;
+    align-self:center;
 }
 
 .nav-links:hover {
-    color: #31FFA8;
+    color: #34d399;
 }

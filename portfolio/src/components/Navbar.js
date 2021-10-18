@@ -8,25 +8,25 @@ function Navbar() {
     return (
         <>
             <nav className="navBar">
-                <div className="navBar-container">
-                    <div classname="left">
-                        <div className="upper"> </div>
-                        <div className="lower"> </div>
+                <div className="navBar-container md:sticky top-0 z-10">
+                    {/* <div className="Paige font-cursive text-white">
+                        <Link to='Home' href='#home'>
+                            Paige Harland</Link>
+                    </div> */}
+                    <div className="left">
                     </div>
-                    <ul className="nav-menu">
-                        <li className='nav-item'>
-                            <Link to='About' href='#about' className='nav-links'>
+                    <div className='nav-item'>
+                            <Link to='About' href='#About' className='nav-links'>
                             about</Link>
-                        </li>
-                        <li className='nav-item'>
-                            <Link to='work' href='#work' className='nav-links'>
+                    </div>
+                    <div className='nav-item'>
+                            <Link to='Work' href='#Work' className='nav-links'>
                             work</Link>
-                        </li>
-                        <li className='nav-item'>
+                    </div>
+                    <div className='nav-item'>
                             <a href={myResume} target='_blank' className='nav-links' rel='noopener noreferrer'>
                             resume</a>
-                        </li>
-                    </ul>
+                    </div>
                 </div>
             </nav>
         </>

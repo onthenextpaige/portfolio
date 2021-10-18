@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap');
+
+.homeText {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 60vh;
+    font-family: 'Abril Fatface';
+    padding: 50px;
+}
+
+.firstLine {
+    font-size: 3rem;
+}
+
+.secondLine {
+    font-size: 6.5rem;
+    color: #FFFFFF;
+}
+
+.thirdLine {
+    font-size: 3rem;
+    color: #FFFFFF;
+}
+
+span {
+	background-image: linear-gradient(#ae7763, #ae7763);
+	background-repeat: no-repeat;
+	background-position: 0% 100%;
+	background-size: 100% 2px;
+	transition: background-size .5s, background-position .3s ease-in .5s;
+}
+
+span:hover {
+	background-size: 100% 100%;
+	background-position: 0% 0%;
+	transition: background-position .5s, background-size .3s ease-in .5s;
+}
