@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.5170be73.chunk.css",
-    "main.js": "/portfolio/static/js/main.f6e3b09c.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.f6e3b09c.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.50172baa.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.50172baa.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.37da8305.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.37da8305.js.map",
     "static/js/2.cf1529ee.chunk.js": "/portfolio/static/js/2.cf1529ee.chunk.js",
@@ -11,7 +11,7 @@
     "static/css/main.5170be73.chunk.css.map": "/portfolio/static/css/main.5170be73.chunk.css.map",
     "static/js/2.cf1529ee.chunk.js.LICENSE.txt": "/portfolio/static/js/2.cf1529ee.chunk.js.LICENSE.txt",
     "static/media/DevDuel_image.87e704f9.PNG": "/portfolio/static/media/DevDuel_image.87e704f9.PNG",
-    "static/media/Headshot.598409ff.jpg": "/portfolio/static/media/Headshot.598409ff.jpg",
+    "static/media/Headshot.e24f3aa2.jpg": "/portfolio/static/media/Headshot.e24f3aa2.jpg",
     "static/media/Resume.911e6d97.pdf": "/portfolio/static/media/Resume.911e6d97.pdf",
     "static/media/Twitter_image.064a5a24.PNG": "/portfolio/static/media/Twitter_image.064a5a24.PNG",
     "static/media/App.css": "/portfolio/static/media/mountains.515f4b94.jpg"
@@ -20,6 +20,6 @@
     "static/js/runtime-main.37da8305.js",
     "static/js/2.cf1529ee.chunk.js",
     "static/css/main.5170be73.chunk.css",
-    "static/js/main.f6e3b09c.chunk.js"
+    "static/js/main.50172baa.chunk.js"
   ]
 }
